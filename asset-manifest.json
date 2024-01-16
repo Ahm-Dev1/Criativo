@@ -1,0 +1,41 @@
+{
+  "files": {
+    "main.css": "/criativo/static/css/main.14b0e2ee.css",
+    "main.js": "/criativo/static/js/main.c26c12aa.js",
+    "static/media/portrait.png": "/criativo/static/media/portrait.8d8f2b2dc1bcadeb9deb.png",
+    "static/media/Untitled-1.png": "/criativo/static/media/Untitled-1.d13885faca2f00f8c103.png",
+    "static/media/T4.png": "/criativo/static/media/T4.68f8235cb68c48d81d80.png",
+    "static/media/adadad.jpg": "/criativo/static/media/adadad.486825f4c7be930388a0.jpg",
+    "static/media/T3.png": "/criativo/static/media/T3.e4b8e78fe54e0898ff8a.png",
+    "static/media/T2.png": "/criativo/static/media/T2.62209bfc7454d2f521f4.png",
+    "static/media/apelah.jpg": "/criativo/static/media/apelah.8e33311918852e134fc5.jpg",
+    "static/media/T1.png": "/criativo/static/media/T1.30bfaadf498fee4413be.png",
+    "static/media/11.jpg": "/criativo/static/media/11.3e3a340f2362e248837a.jpg",
+    "static/media/N2.jpg": "/criativo/static/media/N2.0d75cb57b768fab26a9d.jpg",
+    "static/media/1.jpg": "/criativo/static/media/1.cf798b70c1a75390f801.jpg",
+    "static/media/side-view-portrait-of-a-woman-with-make-up-CTUMAUJ.jpg": "/criativo/static/media/side-view-portrait-of-a-woman-with-make-up-CTUMAUJ.cae19fd4b9d2d46c7cf2.jpg",
+    "static/media/N1.jpg": "/criativo/static/media/N1.ea95cfbd4ef94dd5e086.jpg",
+    "static/media/N3.jpg": "/criativo/static/media/N3.1bb7f9cd723456f79585.jpg",
+    "static/media/Bg-1.jpg": "/criativo/static/media/Bg-1.8a647402a358fcdda2a2.jpg",
+    "static/media/G1.jpg": "/criativo/static/media/G1.6a68385937e93e348ed4.jpg",
+    "static/media/G7.jpg": "/criativo/static/media/G7.3a154d5c4efc9bdd07be.jpg",
+    "static/media/G5.jpg": "/criativo/static/media/G5.f642177b4a0de2fba009.jpg",
+    "static/media/G4.jpg": "/criativo/static/media/G4.98c655d1ea5f9235f820.jpg",
+    "static/media/G9.jpg": "/criativo/static/media/G9.9f7842cbc13e51295e91.jpg",
+    "static/media/9-Team-Crew.png": "/criativo/static/media/9-Team-Crew.a351ad9053c1baa93b0d.png",
+    "static/media/Clean-Code.png": "/criativo/static/media/Clean-Code.5cf98c638deb13c68c13.png",
+    "static/media/7-Happy-Costumer.png": "/criativo/static/media/7-Happy-Costumer.535129710e2acacbe573.png",
+    "static/media/1-1 - Copy.png": "/criativo/static/media/1-1 - Copy.0e6ad9e0afada9d738a4.png",
+    "static/media/Modern-Design.png": "/criativo/static/media/Modern-Design.bcc1ca200ab273d7f79b.png",
+    "static/media/6-Brand-Identity.png": "/criativo/static/media/6-Brand-Identity.d0f63577ff2e8eb2ce1f.png",
+    "static/media/4-Video-Marketing.png": "/criativo/static/media/4-Video-Marketing.b991eb8a1ea2b4f5790c.png",
+    "static/media/5-Web-Design.png": "/criativo/static/media/5-Web-Design.d425ee10fd4ca96566f8.png",
+    "index.html": "/criativo/index.html",
+    "main.14b0e2ee.css.map": "/criativo/static/css/main.14b0e2ee.css.map",
+    "main.c26c12aa.js.map": "/criativo/static/js/main.c26c12aa.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.14b0e2ee.css",
+    "static/js/main.c26c12aa.js"
+  ]
+}
